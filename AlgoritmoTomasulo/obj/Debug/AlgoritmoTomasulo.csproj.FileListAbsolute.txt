@@ -1,0 +1,20 @@
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\bin\Debug\AlgoritmoTomasulo.exe.config
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\bin\Debug\AlgoritmoTomasulo.exe
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\bin\Debug\AlgoritmoTomasulo.pdb
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.Principal.resources
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.InfoAyuda.resources
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.Properties.Resources.resources
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.csproj.GenerateResource.Cache
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.exe
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.pdb
+D:\Clases - PCPIN\2017 - I\Microcomputadoras II\tf\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.csprojResolveAssemblyReference.cache
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\bin\Debug\AlgoritmoTomasulo.exe.config
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.exe
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.pdb
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\bin\Debug\AlgoritmoTomasulo.exe
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\bin\Debug\AlgoritmoTomasulo.pdb
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.csprojResolveAssemblyReference.cache
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.Principal.resources
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.InfoAyuda.resources
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.Properties.Resources.resources
+D:\Clases\UNP\Microcomputadoras II\AlgoritmoTomasulo\AlgoritmoTomasulo\obj\Debug\AlgoritmoTomasulo.csproj.GenerateResource.Cache
